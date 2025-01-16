@@ -81,9 +81,10 @@
 
 }
 /* responsive media query */
-@media  and (max-width:576px) { 
-  .navbar, .nav-links{
+@media screen and (max-width:576px) { 
+  .navbar, .nav-links {
     flex-direction:column;
+  }
     
   }
   
